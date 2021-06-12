@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\FOODIECALS\bin\Debug\FOODIECALS.exe.config
+C:\Users\lenovo\source\repos\FOODIECALS\bin\Debug\FOODIECALS.exe
+C:\Users\lenovo\source\repos\FOODIECALS\bin\Debug\FOODIECALS.pdb
+C:\Users\lenovo\source\repos\FOODIECALS\obj\Debug\FOODIECALS.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\FOODIECALS\obj\Debug\FOODIECALS.WelcomeForm.resources
+C:\Users\lenovo\source\repos\FOODIECALS\obj\Debug\FOODIECALS.Properties.Resources.resources
+C:\Users\lenovo\source\repos\FOODIECALS\obj\Debug\FOODIECALS.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\FOODIECALS\obj\Debug\FOODIECALS.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\FOODIECALS\obj\Debug\FOODIECALS.exe
+C:\Users\lenovo\source\repos\FOODIECALS\obj\Debug\FOODIECALS.pdb
+C:\Users\lenovo\source\repos\FOODIECALS\obj\Debug\FOODIECALS.OrderForm.resources
+C:\Users\lenovo\source\repos\FOODIECALS\obj\Debug\FOODIECALS.CashForm.resources
+C:\Users\lenovo\source\repos\FOODIECALS\obj\Debug\FOODIECALS.DebitForm.resources
